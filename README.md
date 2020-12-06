@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi! Welcome to my github page. 👋
+
+I'm Mustafa Zaimoğlu and I am a student currently.
+
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafazaimoglu&show_icons=true)
+
 
 <!--
 **mustafazaimoglu/mustafazaimoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
