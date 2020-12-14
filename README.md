@@ -3,7 +3,7 @@
 I'm Mustafa Zaimoğlu and I am a student currently.
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mustafazaimoglu&theme=chartreuse-dark&show_icons=true&count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafazaimoglu&theme=chartreuse-dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=mustafazaimoglu&theme=tokyonight&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafazaimoglu&theme=tokyonight)
 
 
 
