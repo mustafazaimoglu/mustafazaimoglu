@@ -1,5 +1,5 @@
 <div align="center">
-   <h2>Hi! Welcome to my github page. 👋</h2>
+   <h2>Hi! Welcome to my github page. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21px"></h2>
    <p>
       I'm Mustafa Zaimoğlu and I am a student currently.
    </p>
